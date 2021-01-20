@@ -1,0 +1,40 @@
+class
+name
+start
+end
+hour
+ta:id,name, take attendance
+
+instructor:id, name, take attendance
+student:id,name (3)
+{
+ 
+"name":"LE QUOC TUAN"
+"start":"19:00"
+"end": "21:00"
+"hour":3
+"ta":{
+
+ "id":"number",
+ "name":"CCNA",
+ "take attendace":"true",
+ "instructor":
+    {
+  "id":"CCNA",
+  "Name":"TUANLE",
+  "take attendace":"true",
+
+
+ "stundent":
+    {
+	
+    "id":"CCNA",
+    "name":"TUAN",
+    "take attendace":"true",
+     }
+
+}
+
+}
+	
+}
